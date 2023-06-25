@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="spaceshuttle.gif" width="175">
+  <a href="mailto:mailuser@mail.io">
+    <img src="image_url" alt="Alt Text">
+  </a>
 </p>
